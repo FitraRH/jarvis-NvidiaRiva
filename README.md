@@ -146,7 +146,3 @@ See the complete list in `src/translation.py`.
 - [DialoGPT on Hugging Face](https://huggingface.co/microsoft/DialoGPT-large)
 - [Neural Networks from Scratch](https://nnfs.io/)
 - [NVIDIA Riva](https://developer.nvidia.com/riva)
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
