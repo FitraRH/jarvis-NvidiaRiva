@@ -1,0 +1,45 @@
+{
+    "wake_word": "jarvis",
+    "model": {
+      "name": "microsoft/DialoGPT-large",
+      "max_history": 5,
+      "max_length": 100
+    },
+    "speech": {
+      "input": {
+        "device_index": null,
+        "energy_threshold": 300,
+        "pause_threshold": 0.8,
+        "timeout": 5
+      },
+      "output": {
+        "engine": "pyttsx3",  
+        "voice_id": null,
+        "rate": 150,
+        "volume": 1.0
+      },
+      "riva": {
+        "enabled": false,
+        "server_url": "localhost:50051",
+        "auth_key": ""
+      }
+    },
+    "language": {
+      "default": "en",
+      "auto_detect": true,
+      "translation_enabled": true
+    },
+    "commands": {
+      "exit_commands": ["exit", "quit", "goodbye", "bye"],
+      "custom_commands": {
+        "weather": ["what's the weather", "how is the weather", "weather forecast"],
+        "time": ["what time is it", "tell me the time", "current time"],
+        "date": ["what day is it", "what's the date", "current date"]
+      }
+    },
+    "logging": {
+      "enabled": true,
+      "level": "INFO",
+      "file": "logs/chatbot.log"
+    }
+  }

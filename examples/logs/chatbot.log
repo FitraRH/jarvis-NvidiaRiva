@@ -1,0 +1,95 @@
+2025-05-03 14:56:10,186 - src.utils - INFO - Initializing chatbot...
+2025-05-03 14:56:10,186 - src.utils - INFO - Loading model: microsoft/DialoGPT-large
+2025-05-03 14:56:16,105 - src.utils - INFO - CUDA available. Moving model to GPU.
+2025-05-03 14:56:17,936 - src.utils - INFO - Command handler initialized
+2025-05-03 14:56:18,216 - src.utils - INFO - Available microphones: ['Microsoft Sound Mapper - Input', 'CABLE Output (VB-Audio Virtual ', 'Microphone (Steam Streaming Mic', 'Microphone Array (IntelÂ® Smart ', 'Microsoft Sound Mapper - Output', 'Headphones (Realtek(R) Audio)', 'Speakers (Steam Streaming Speak', 'Speakers (Steam Streaming Micro', 'CABLE Input (VB-Audio Virtual C', 'Speakers (Realtek(R) Audio)', 'Primary Sound Capture Driver', 'CABLE Output (VB-Audio Virtual Cable)', 'Microphone (Steam Streaming Microphone)', 'Microphone Array (IntelÂ® Smart Sound Technology for Digital Microphones)', 'Primary Sound Driver', 'Headphones (Realtek(R) Audio)', 'Speakers (Steam Streaming Speakers)', 'Speakers (Steam Streaming Microphone)', 'CABLE Input (VB-Audio Virtual Cable)', 'Speakers (Realtek(R) Audio)', 'Speakers (Steam Streaming Speakers)', 'Headphones (Realtek(R) Audio)', 'Speakers (Steam Streaming Microphone)', 'CABLE Input (VB-Audio Virtual Cable)', 'Speakers (Realtek(R) Audio)', 'CABLE Output (VB-Audio Virtual Cable)', 'Microphone (Steam Streaming Microphone)', 'Microphone Array (IntelÂ® Smart Sound Technology for Digital Microphones)', 'Microphone Array 1 ()', 'Microphone Array 2 ()', 'Microphone Array 3 ()', 'Stereo Mix (Realtek HD Audio Stereo input)', 'Headphones 1 (Realtek HD Audio 2nd output with SST)', 'Headphones 2 (Realtek HD Audio 2nd output with SST)', 'PC Speaker (Realtek HD Audio 2nd output with SST)', 'Speakers 1 (Realtek HD Audio output with SST)', 'Speakers 2 (Realtek HD Audio output with SST)', 'PC Speaker (Realtek HD Audio output with SST)', 'Microphone (Realtek HD Audio Mic input)', 'Microphone (Steam Streaming Microphone Wave)', 'Speakers (Steam Streaming Microphone Wave)', 'Input (Steam Streaming Speakers Wave)', 'Speakers (Steam Streaming Speakers Wave)', 'CABLE Output (VB-Audio Point)', 'Speakers (VB-Audio Point)']
+2025-05-03 14:56:18,218 - src.utils - INFO - Using default microphone
+2025-05-03 14:56:18,219 - src.utils - INFO - Initializing pyttsx3 TTS engine
+2025-05-03 14:56:18,775 - src.utils - INFO - Selected default voice: Microsoft David Desktop - English (United States)
+2025-05-03 14:56:18,775 - src.utils - INFO - Chatbot initialized with wake word: jarvis
+2025-05-03 14:57:25,276 - src.utils - INFO - Initializing chatbot...
+2025-05-03 14:57:25,276 - src.utils - INFO - Loading model: microsoft/DialoGPT-large
+2025-05-03 14:57:30,502 - src.utils - INFO - CUDA available. Moving model to GPU.
+2025-05-03 14:57:32,305 - src.utils - INFO - Command handler initialized
+2025-05-03 14:57:32,521 - src.utils - INFO - Available microphones: ['Microsoft Sound Mapper - Input', 'CABLE Output (VB-Audio Virtual ', 'Microphone (Steam Streaming Mic', 'Microphone Array (IntelÂ® Smart ', 'Microsoft Sound Mapper - Output', 'Headphones (Realtek(R) Audio)', 'Speakers (Steam Streaming Speak', 'Speakers (Steam Streaming Micro', 'CABLE Input (VB-Audio Virtual C', 'Speakers (Realtek(R) Audio)', 'Primary Sound Capture Driver', 'CABLE Output (VB-Audio Virtual Cable)', 'Microphone (Steam Streaming Microphone)', 'Microphone Array (IntelÂ® Smart Sound Technology for Digital Microphones)', 'Primary Sound Driver', 'Headphones (Realtek(R) Audio)', 'Speakers (Steam Streaming Speakers)', 'Speakers (Steam Streaming Microphone)', 'CABLE Input (VB-Audio Virtual Cable)', 'Speakers (Realtek(R) Audio)', 'Speakers (Steam Streaming Speakers)', 'Headphones (Realtek(R) Audio)', 'Speakers (Steam Streaming Microphone)', 'CABLE Input (VB-Audio Virtual Cable)', 'Speakers (Realtek(R) Audio)', 'CABLE Output (VB-Audio Virtual Cable)', 'Microphone (Steam Streaming Microphone)', 'Microphone Array (IntelÂ® Smart Sound Technology for Digital Microphones)', 'Microphone Array 1 ()', 'Microphone Array 2 ()', 'Microphone Array 3 ()', 'Stereo Mix (Realtek HD Audio Stereo input)', 'Headphones 1 (Realtek HD Audio 2nd output with SST)', 'Headphones 2 (Realtek HD Audio 2nd output with SST)', 'PC Speaker (Realtek HD Audio 2nd output with SST)', 'Speakers 1 (Realtek HD Audio output with SST)', 'Speakers 2 (Realtek HD Audio output with SST)', 'PC Speaker (Realtek HD Audio output with SST)', 'Microphone (Realtek HD Audio Mic input)', 'Microphone (Steam Streaming Microphone Wave)', 'Speakers (Steam Streaming Microphone Wave)', 'Input (Steam Streaming Speakers Wave)', 'Speakers (Steam Streaming Speakers Wave)', 'CABLE Output (VB-Audio Point)', 'Speakers (VB-Audio Point)']
+2025-05-03 14:57:32,521 - src.utils - INFO - Using default microphone
+2025-05-03 14:57:32,522 - src.utils - INFO - Initializing pyttsx3 TTS engine
+2025-05-03 14:57:32,812 - src.utils - INFO - Selected default voice: Microsoft David Desktop - English (United States)
+2025-05-03 14:57:32,812 - src.utils - INFO - Chatbot initialized with wake word: jarvis
+2025-05-03 14:57:52,701 - src.utils - INFO - Initializing chatbot...
+2025-05-03 14:57:52,701 - src.utils - INFO - Loading model: microsoft/DialoGPT-large
+2025-05-03 14:57:57,308 - src.utils - INFO - CUDA available. Moving model to GPU.
+2025-05-03 14:57:59,148 - src.utils - INFO - Command handler initialized
+2025-05-03 14:57:59,148 - src.utils - INFO - Chatbot initialized with wake word: jarvis
+2025-05-03 15:01:59,305 - src.utils - INFO - Initializing chatbot...
+2025-05-03 15:01:59,306 - src.utils - INFO - Loading model: microsoft/DialoGPT-large
+2025-05-03 15:02:06,392 - src.utils - INFO - CUDA available. Moving model to GPU.
+2025-05-03 15:02:08,154 - src.utils - INFO - Command handler initialized
+2025-05-03 15:02:08,155 - src.utils - INFO - Initializing pyttsx3 TTS engine
+2025-05-03 15:02:08,463 - src.utils - INFO - Selected default voice: Microsoft David Desktop - English (United States)
+2025-05-03 15:02:08,464 - src.utils - INFO - Chatbot initialized with wake word: jarvis
+2025-05-03 15:02:16,027 - src.utils - INFO - Speaking: Hän on joukkueen paras pelaaja, sinun ei tarvitse edes kysyä minulta tätä kysymystä
+2025-05-03 15:02:34,262 - src.utils - INFO - Speaking: I can, and I do, but it doesn't work.
+2025-05-03 15:02:44,042 - src.utils - INFO - Speaking: Hm, I don't know why, but that's the default language for me
+2025-05-03 15:02:58,253 - src.utils - INFO - Speaking: It's the language of the server, not the server.
+2025-05-03 15:03:07,002 - src.utils - INFO - Speaking: I don't want to
+2025-05-03 15:03:10,796 - src.utils - INFO - Speaking: It sounds pretty interesting.
+2025-05-03 15:03:31,982 - src.utils - INFO - Speaking: You are very
+2025-05-03 15:03:38,344 - src.utils - INFO - Speaking: y?
+2025-05-03 15:03:43,288 - src.utils - INFO - Speaking: o
+2025-05-03 15:03:50,075 - src.utils - INFO - Speaking: Rakastan, sinä olet?
+2025-05-03 15:03:59,719 - src.utils - INFO - Speaking: O, sina?
+2025-05-03 15:04:11,692 - src.utils - INFO - Speaking: Uhh?
+2025-05-03 15:04:16,482 - src.utils - INFO - Speaking: Ben?
+2025-05-03 15:04:24,745 - src.utils - INFO - Speaking: I?
+2025-05-03 15:04:29,040 - src.utils - INFO - Speaking: O?
+2025-05-03 15:04:33,529 - src.utils - INFO - Speaking: I've
+2025-05-03 15:04:35,402 - src.utils - INFO - Speaking: Goodbye!
+2025-05-03 16:44:24,616 - src.utils - INFO - Initializing chatbot...
+2025-05-03 16:44:24,617 - src.utils - INFO - Loading model: microsoft/DialoGPT-large
+2025-05-03 16:44:32,961 - src.utils - INFO - CUDA available. Moving model to GPU.
+2025-05-03 16:44:35,833 - src.utils - INFO - Command handler initialized
+2025-05-03 16:44:36,133 - src.utils - INFO - Available microphones: ['Microsoft Sound Mapper - Input', 'CABLE Output (VB-Audio Virtual ', 'Microphone (Steam Streaming Mic', 'Microphone Array (IntelÂ® Smart ', 'Microsoft Sound Mapper - Output', 'Headphones (Realtek(R) Audio)', 'Speakers (Steam Streaming Speak', 'Speakers (Steam Streaming Micro', 'CABLE Input (VB-Audio Virtual C', 'Speakers (Realtek(R) Audio)', 'Primary Sound Capture Driver', 'CABLE Output (VB-Audio Virtual Cable)', 'Microphone (Steam Streaming Microphone)', 'Microphone Array (IntelÂ® Smart Sound Technology for Digital Microphones)', 'Primary Sound Driver', 'Headphones (Realtek(R) Audio)', 'Speakers (Steam Streaming Speakers)', 'Speakers (Steam Streaming Microphone)', 'CABLE Input (VB-Audio Virtual Cable)', 'Speakers (Realtek(R) Audio)', 'Speakers (Steam Streaming Speakers)', 'Headphones (Realtek(R) Audio)', 'Speakers (Steam Streaming Microphone)', 'CABLE Input (VB-Audio Virtual Cable)', 'Speakers (Realtek(R) Audio)', 'CABLE Output (VB-Audio Virtual Cable)', 'Microphone (Steam Streaming Microphone)', 'Microphone Array (IntelÂ® Smart Sound Technology for Digital Microphones)', 'Microphone Array 1 ()', 'Microphone Array 2 ()', 'Microphone Array 3 ()', 'Stereo Mix (Realtek HD Audio Stereo input)', 'Headphones 1 (Realtek HD Audio 2nd output with SST)', 'Headphones 2 (Realtek HD Audio 2nd output with SST)', 'PC Speaker (Realtek HD Audio 2nd output with SST)', 'Speakers 1 (Realtek HD Audio output with SST)', 'Speakers 2 (Realtek HD Audio output with SST)', 'PC Speaker (Realtek HD Audio output with SST)', 'Microphone (Realtek HD Audio Mic input)', 'Microphone (Steam Streaming Microphone Wave)', 'Speakers (Steam Streaming Microphone Wave)', 'Input (Steam Streaming Speakers Wave)', 'Speakers (Steam Streaming Speakers Wave)', 'CABLE Output (VB-Audio Point)', 'Speakers (VB-Audio Point)']
+2025-05-03 16:44:36,134 - src.utils - INFO - Using default microphone
+2025-05-03 16:44:36,134 - src.utils - INFO - Initializing pyttsx3 TTS engine
+2025-05-03 16:44:36,621 - src.utils - INFO - Selected default voice: Microsoft David Desktop - English (United States)
+2025-05-03 16:44:36,622 - src.utils - INFO - Chatbot initialized with wake word: jarvis
+2025-05-03 16:45:00,339 - src.utils - INFO - Initializing chatbot...
+2025-05-03 16:45:00,339 - src.utils - INFO - Loading model: microsoft/DialoGPT-large
+2025-05-03 16:45:06,197 - src.utils - INFO - CUDA available. Moving model to GPU.
+2025-05-03 16:45:08,414 - src.utils - INFO - Command handler initialized
+2025-05-03 16:45:08,415 - src.utils - INFO - Initializing pyttsx3 TTS engine
+2025-05-03 16:45:08,798 - src.utils - INFO - Selected default voice: Microsoft David Desktop - English (United States)
+2025-05-03 16:45:08,799 - src.utils - INFO - Chatbot initialized with wake word: jarvis
+2025-05-03 16:45:11,378 - src.utils - WARNING - Empty text provided to TTS engine
+2025-05-03 16:45:18,541 - src.utils - INFO - Speaking: ?
+2025-05-03 16:45:44,020 - src.utils - INFO - Speaking: Je suis une voix
+2025-05-03 16:45:56,702 - src.utils - INFO - Speaking: I can only speak English
+2025-05-03 16:46:16,163 - src.utils - INFO - Speaking: i am good, i am good
+2025-05-03 16:46:50,148 - src.utils - INFO - Speaking: ok you should finish this conversation now
+2025-05-03 16:46:54,951 - src.utils - INFO - Speaking: Goodbye!
+2025-05-03 16:47:23,226 - src.utils - INFO - Command handler initialized
+2025-05-03 16:47:23,227 - src.utils - WARNING - Command type 'joke' not found in configuration
+2025-05-03 16:47:23,228 - src.utils - INFO - Initializing chatbot...
+2025-05-03 16:47:23,229 - src.utils - INFO - Loading model: microsoft/DialoGPT-large
+2025-05-03 16:47:29,163 - src.utils - INFO - CUDA available. Moving model to GPU.
+2025-05-03 16:47:31,079 - src.utils - INFO - Command handler initialized
+2025-05-03 16:47:31,299 - src.utils - INFO - Available microphones: ['Microsoft Sound Mapper - Input', 'CABLE Output (VB-Audio Virtual ', 'Microphone (Steam Streaming Mic', 'Microphone Array (IntelÂ® Smart ', 'Microsoft Sound Mapper - Output', 'Headphones (Realtek(R) Audio)', 'Speakers (Steam Streaming Speak', 'Speakers (Steam Streaming Micro', 'CABLE Input (VB-Audio Virtual C', 'Speakers (Realtek(R) Audio)', 'Primary Sound Capture Driver', 'CABLE Output (VB-Audio Virtual Cable)', 'Microphone (Steam Streaming Microphone)', 'Microphone Array (IntelÂ® Smart Sound Technology for Digital Microphones)', 'Primary Sound Driver', 'Headphones (Realtek(R) Audio)', 'Speakers (Steam Streaming Speakers)', 'Speakers (Steam Streaming Microphone)', 'CABLE Input (VB-Audio Virtual Cable)', 'Speakers (Realtek(R) Audio)', 'Speakers (Steam Streaming Speakers)', 'Headphones (Realtek(R) Audio)', 'Speakers (Steam Streaming Microphone)', 'CABLE Input (VB-Audio Virtual Cable)', 'Speakers (Realtek(R) Audio)', 'CABLE Output (VB-Audio Virtual Cable)', 'Microphone (Steam Streaming Microphone)', 'Microphone Array (IntelÂ® Smart Sound Technology for Digital Microphones)', 'Microphone Array 1 ()', 'Microphone Array 2 ()', 'Microphone Array 3 ()', 'Stereo Mix (Realtek HD Audio Stereo input)', 'Headphones 1 (Realtek HD Audio 2nd output with SST)', 'Headphones 2 (Realtek HD Audio 2nd output with SST)', 'PC Speaker (Realtek HD Audio 2nd output with SST)', 'Speakers 1 (Realtek HD Audio output with SST)', 'Speakers 2 (Realtek HD Audio output with SST)', 'PC Speaker (Realtek HD Audio output with SST)', 'Microphone (Realtek HD Audio Mic input)', 'Microphone (Steam Streaming Microphone Wave)', 'Speakers (Steam Streaming Microphone Wave)', 'Input (Steam Streaming Speakers Wave)', 'Speakers (Steam Streaming Speakers Wave)', 'CABLE Output (VB-Audio Point)', 'Speakers (VB-Audio Point)']
+2025-05-03 16:47:31,299 - src.utils - INFO - Using default microphone
+2025-05-03 16:47:31,300 - src.utils - INFO - Initializing pyttsx3 TTS engine
+2025-05-03 16:47:31,603 - src.utils - INFO - Selected default voice: Microsoft David Desktop - English (United States)
+2025-05-03 16:47:31,603 - src.utils - INFO - Chatbot initialized with wake word: jarvis
+2025-05-03 16:47:43,885 - src.utils - INFO - Initializing chatbot...
+2025-05-03 16:47:43,885 - src.utils - INFO - Loading model: microsoft/DialoGPT-large
+2025-05-03 16:47:49,700 - src.utils - INFO - CUDA available. Moving model to GPU.
+2025-05-03 16:47:52,051 - src.utils - INFO - Command handler initialized
+2025-05-03 16:47:52,052 - src.utils - INFO - Initializing pyttsx3 TTS engine
+2025-05-03 16:47:52,393 - src.utils - INFO - Selected default voice: Microsoft David Desktop - English (United States)
+2025-05-03 16:47:52,393 - src.utils - INFO - Chatbot initialized with wake word: jarvis
+2025-05-03 16:47:59,805 - src.utils - INFO - Speaking: Ei, ei brittiläinen elokuva.
+2025-05-03 16:48:10,302 - src.utils - INFO - Speaking: Tidak, saya sedikit tidak berhubungan.
+2025-05-03 16:48:55,826 - src.utils - INFO - Speaking: Tidak, saya tidak bisa, saya hanya bisa berbicara bahasa Inggris.
+2025-05-03 16:49:11,137 - src.utils - INFO - Speaking: I can't speak spanish, I have a broken arm.
+2025-05-03 16:49:25,797 - src.utils - INFO - Speaking: English?
+2025-05-03 16:49:36,345 - src.utils - INFO - Speaking: I don't speak it, I just have a weird accent.
+2025-05-03 16:49:51,276 - src.utils - INFO - Speaking: Bye, bye.
